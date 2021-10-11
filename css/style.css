@@ -6,6 +6,7 @@ body{
 #header{
     height: 130px;
     background-image: url(../img/pattern.png);
+    background-size: contain;
     background-color: #4DA1FF;
     position: relative;
 }
