@@ -28,6 +28,11 @@ header{
     color: #FFFFFF;
 }
 
+.correlati{
+    width: 300px;
+    height: 210px;
+}
+
 #monitor{
     background-image: url(../img/monitor.jpg);
 }
