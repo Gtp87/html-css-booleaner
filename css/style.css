@@ -2,14 +2,26 @@ body{
     width: 1200px;
 }
 
-header{
+#header{
     height: 130px;
     background-image: url(../img/pattern.png);
     background-color: #4DA1FF;
+    position: relative;
+}
+
+#logo{
+    width: 13em;
+    position: absolute;
+    left: 0;
+    bottom: 0;
 }
 
 #booleaner{
     color: #4DA1FF;
+}
+
+#didascalie{
+    font-size: 60%;
 }
 
 .grey{
@@ -24,8 +36,20 @@ header{
     background-color: #FFFF00;
 }
 
+
+.thead{
+    background-color: #4DA1FF;
+    width: 33%;
+    text-align: center;
+}
+
+
+.tbodyb{
+    background-color: #B2E6F2;
+}
 .white{
     color: #FFFFFF;
+    font-weight: 700;
 }
 
 .correlati{
@@ -41,13 +65,3 @@ header{
     background-image: url(../img/graph.jpg);
 }
 
-.thead{
-    background-color: #4DA1FF;
-    width: 33%;
-    text-align: center;
-}
-
-
-.tbodyb{
-    background-color: #B2E6F2;
-}
