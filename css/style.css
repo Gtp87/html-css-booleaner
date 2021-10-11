@@ -23,3 +23,15 @@ header{
 .yellow{
     background-color: #FFFF00;
 }
+
+.white{
+    color: #FFFFFF;
+}
+
+#monitor{
+    background-image: url(../img/monitor.jpg);
+}
+
+#graph{
+    background-image: url(../img/graph.jpg);
+}
