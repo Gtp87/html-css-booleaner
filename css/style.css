@@ -1,5 +1,5 @@
 body{
-    width: 800px;
+    width: 1200px;
 }
 
 header{
@@ -8,6 +8,14 @@ header{
     background-color: #4DA1FF;
 }
 
-#logo{
+#booleaner{
+    color: #4DA1FF;
+}
 
+.grey{
+    color: #848484;
+}
+
+.date{
+    font-size: 10px;
 }
