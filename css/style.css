@@ -40,3 +40,12 @@ header{
 #graph{
     background-image: url(../img/graph.jpg);
 }
+
+.thead{
+    background-color: #4DA1FF;
+    width: 33%;
+    text-align: center;
+}
+
+
+}
