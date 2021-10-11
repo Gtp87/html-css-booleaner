@@ -16,6 +16,10 @@ body{
     bottom: 0;
 }
 
+h1{
+    font-size: 50px;
+}
+
 #booleaner{
     color: #4DA1FF;
 }
