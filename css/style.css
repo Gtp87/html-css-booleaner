@@ -63,6 +63,7 @@ table{
 
 
 .white{
+
     color: #FFFFFF;
     font-weight: 700;
 }
@@ -70,6 +71,9 @@ table{
 .correlati{
     width: 300px;
     height: 210px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 #monitor{
